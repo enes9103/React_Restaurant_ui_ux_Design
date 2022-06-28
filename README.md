@@ -19,31 +19,32 @@ This project is the preparation and implementation of the Modern UI/UX Restauran
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
 <!-- GETTING STARTED -->
-## While starting
+## Getting Started
 
-This is an example of how you can instruct to build your project locally.
-Follow these simple example steps to get a local copy up and running.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list the things you need to use the software and how to set them up.
+This is an example of how to list things you need to use the software and how to install them.
 * npm
-  ``s
+  ```sh
   npm install npm@latest -g
   ```
 
-### Setup
+
+### Installation
 
 _Following is an example of how you can instruct your audience to install and set up your app. This template is not based on any external dependencies or services._
-
-1. Clone the repository
-   ``s
-git clone https://github.com/enes9103/React_Restaurant_ui_ux_Design
+1. Clone the repo
+   ```sh
+   git clone https://github.com/enes9103/React_Restaurant_ui_ux_Design
    ```
 2. Install NPM packages
-   ``s
+   ```sh
    npm install
    ```
+
 3. The project is ready, you can start using it immediately.
     You can run:
 
