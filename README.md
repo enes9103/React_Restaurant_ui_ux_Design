@@ -71,11 +71,12 @@ Don't forget to give stars to the project! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 <!-- CONTACT -->
 ## Contact
 
 <a href="https://my-portfolio-page-resume.herokuapp.com/">
-<img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101- lineal-color-itim2101.png"/>
+<img border="0" alt="Enes UNLU" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/enesunlu/">
@@ -101,9 +102,11 @@ Don't forget to give stars to the project! Thanks again!
 Project Link: [https://github.com/enes9103](https://github.com/enes9103)
 </p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- SUPPORT -->
 ## Support
 
-<p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40 " width="180" alt="aryasoni98" /></a>
+<p><a href="https://www.buymeacoffee.com/enes9103"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="aryasoni98" /></a>
 
  <p align="right">(<a href="#top">back to top</a>)</p>
